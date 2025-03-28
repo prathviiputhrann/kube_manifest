@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: prathvipp/todo-app:build-28
+        image: prathvipp/todo-app:build-30
         ports:
         - containerPort: 80
